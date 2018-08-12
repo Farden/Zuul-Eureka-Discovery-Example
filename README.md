@@ -1,1 +1,1 @@
-# Zuul-Eureka-Discovery-Example
+# Zuul-Eureka-Service-Discovery-Example
